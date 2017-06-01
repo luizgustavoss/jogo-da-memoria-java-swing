@@ -1,4 +1,4 @@
-# jogo-da-memoria-java-swing
+# Jogo da Memória em Java Swing
 
 Este projeto (maven) contém a implementação de um jogo da memória desenvolvido em Java Swing, com a finalidade didática de apresentar alguns dos principais recursos do Java Swing.
 
@@ -15,7 +15,7 @@ Esta nova versão apresenta várias melhorias em relação à primeira:
 
 
 
-## CONJUNTOS DE ÍCONES *GRATUITOS* UTILIZADOS: 
+### CONJUNTOS DE ÍCONES *GRATUITOS* UTILIZADOS: 
     	
 ***superhero***
 
